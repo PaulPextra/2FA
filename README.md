@@ -8,7 +8,9 @@
 
 **Two-factor authentication (2FA) is a method of establishing access to an online account or computer system that requires the user to provide two different types of information.**
 
-**A factor in this context simply means a way to convince a computer system or online service that you are who say you are, so the system can determine if you have the rights to access the data services that you're trying to access.**
+**A factor in this context simply means a way to convince a computer system or online service that you are who you say you are, so the system can determine if you have the rights to access the data services that you're trying to access.**
+
+**By far the most common authentication factor in use today is the username/password pair, and since most accounts only require a password for access, most systems thus use single-factor authentication for security. With two-factor authentication, you'll need to both provide a password and prove your identity some other way to gain access.**
 
 
 
