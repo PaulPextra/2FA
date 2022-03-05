@@ -12,6 +12,8 @@
 
 **By far the most common authentication factor in use today is the username/password pair, and since most accounts only require a password for access, most systems thus use single-factor authentication for security. With two-factor authentication, you'll need to both provide a password and prove your identity some other way to gain access.**
 
+**As passwords have become increasingly less secure, whether through data breaches or poor user practices, more and more individuals are moving to 2FA to secure their digital lives — and many service providers are encouraging or mandating the shift as well.**
+
 
 
 **Author: Paul Okoli**

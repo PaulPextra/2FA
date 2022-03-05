@@ -12,7 +12,7 @@ def home_view(request):
 
 def auth_view(request):
     form = AuthenticationForm()
-    if request.method=='POST':
+    if request.method =='POST':
         username = request.POST.get('username')
         password = request.POST.get('password')
         user = authenticate(request, username=username, password=password)
